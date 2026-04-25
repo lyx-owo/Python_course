@@ -27,7 +27,7 @@
 
 詳細分工如下：
 
-* **[林鈺軒 41400348] (Repository 建立者)**
+* **[林鈺軒 414000348] (Repository 建立者)**
 * 
   1.負責設立 GitHub Repository、設定 Public 權限，並發送 Collaborator 邀請。
   
