@@ -37,7 +37,7 @@
 * 
     1.負責課堂python練習上傳 。
   
-* **[張鈞翔 411660615] (Collaborator)
+* **[張鈞翔 411660615] (Collaborator)**
 * 
    1.負責彙整 README.md 文件與最終排版。
   
