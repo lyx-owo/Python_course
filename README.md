@@ -33,7 +33,7 @@
   
   2.負責課堂python練習上傳
     
-* **[姓名 / 學號 B] (Collaborator)**
+* **[陳芳儀 411620866] (Collaborator)**
 * 
     1.負責課堂python練習上傳 。
   
